@@ -4,100 +4,71 @@
 <h3 align="center">Python Full Stack Developer</h3>
 
 <p align="center">
-  Passionate about building responsive, user-friendly
-  and scalable web applications.
+  Hyderabad, India
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khatija-shaik/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://khatija-portfolio-omega.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/shaikkhatija">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
+  Building responsive and user-friendly web applications.
 </p>
 
----
+## About
 
-## 👩‍💻 About Me
+- Python Full Stack Developer
+- Interested in web application development.
+- Focused on Python and Django backend development.
+- Interested in frontend development using React.js.
+- Passionate about problem-solving and Data Structures and Algorithms.
+- Always learning and improving technical skills.
 
-- Python Full Stack Developer based in Hyderabad, India.
-- Interested in developing full-stack web applications using Python and Django.
-- Experienced in frontend development with HTML, CSS, JavaScript and React.js.
-- Familiar with database management using SQLite.
-- Passionate about problem-solving and Data Structures & Algorithms.
-- Focused on continuous learning and building practical projects.
+## Technical Skills
 
-## 🛠️ Technical Skills
+**Languages:** Python, JavaScript, C
 
-**Programming Languages**
-- Python
-- JavaScript
-- C
+**Frontend:** HTML, CSS, JavaScript, React.js
 
-**Frontend Development**
-- HTML5
-- CSS3
-- JavaScript
-- React.js
+**Backend:** Python, Django
 
-**Backend Development**
-- Python
-- Django
+**Database:** SQLite
 
-**Database**
-- SQLite
+**Tools:** Git, GitHub, VS Code
 
-**Tools**
-- Git
-- GitHub
-- VS Code
-
-## 🚀 Projects
+## Projects
 
 ### 1. Portfolio Website
-Personal portfolio showcasing professional information, technical skills and projects.
-
-**Technologies:** HTML, CSS, JavaScript
+Personal portfolio showcasing professional skills and projects.
 
 [Live Portfolio](https://khatija-portfolio-omega.vercel.app/)
 
 ### 2. Board Dashboard
-A dashboard application focused on presenting information through a responsive and interactive interface.
-
-**Technologies:** React.js, JavaScript
+A dashboard application developed using React.js.
 
 ### 3. Brain Tumor Classification
-Deep learning-based brain MRI classification using the MS-DSCCNet architecture.
+Deep learning-based brain MRI classification using MS-DSCCNet.
 
-**Technologies:** Python, Deep Learning, CNN, Image Processing
+**Technologies:** Python, Deep Learning, CNN
 
 ### 4. IRP LMS Project
-A Learning Management System designed to provide an organized platform for learning-related activities.
+A web-based Learning Management System.
 
-**Technologies:** Add the actual project technologies here.
+**Technologies:** HTML, CSS
 
 [Live Demo](https://irp-lms-website-rust.vercel.app/)
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 - Python Full Stack Development
-- Backend Development
 - Problem Solving
 - Data Structures and Algorithms
-- Web Application Development
+- Web Development
 
-## 🤝 Connect With Me
+## Connect With Me
 
-- **LinkedIn:** [Shaik Khatija](https://www.linkedin.com/in/khatija-shaik/)
-- **Portfolio:** [Visit Portfolio](https://khatija-portfolio-omega.vercel.app/)
-- **GitHub:** [shaikkhatija](https://github.com/shaikkhatija)
+- LinkedIn: [Shaik Khatija](https://www.linkedin.com/in/khatija-shaik/)
+- Portfolio: [My Portfolio](https://khatija-portfolio-omega.vercel.app/)
+- GitHub: [shaikkhatija](https://github.com/shaikkhatija)
 
 ---
 
 <p align="center">
-  <i>Committed to continuous learning, improving development skills and building meaningful solutions.</i>
+  Continuous Learning | Building | Improving
 </p>
