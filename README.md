@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shaik Khatija</h1>
 
-<h3 align="center">Python Full Stack Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
   Hyderabad, India
